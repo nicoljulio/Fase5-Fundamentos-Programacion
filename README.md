@@ -10,7 +10,7 @@ Solución Problema 5 - Horas Semanales | Fundamentos de Programación (213022) -
 Python 3
 
 ## Autor
-nicoljulio - Ingeniería de Sistemas - UNAD
+Nicol Andrea julio Zambrano - Ingeniería de Sistemas - UNAD
 Curso: Fundamentos de Programación (213022)
 Grupo: 213022_72
 Fase 5 - Evaluación Final POA
